@@ -99,7 +99,7 @@
     },
     "THUMB_LINK": {
       "description": "Telegraph image link of a image which you want to set as thumbnail.",
-      "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
+      "value": "https://telegra.ph/file/22f288349619a548cf9c6.jpg",
       "required": true
     },
     "BOT_USERNAME": {
